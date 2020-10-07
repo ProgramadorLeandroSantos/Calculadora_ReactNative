@@ -9,8 +9,9 @@
 
 1 - Clone ou baixe o Projeto para sua máquina.<br/>
 2 - Abra o projeto no Visual Studio code.<br/>
-3-  Abra um emulador de smartphone android
-4 - ja No terminal com o diretório do projeto, Execute `expo start`.
+3 - Execute `npm install` para restaurar a pasta nodemodules
+4 - Abra um emulador de smartphone android
+5 - ja No terminal com o diretório do projeto, Execute `expo start`.
 
 ##### Objetivo: Estudar  Principais conceitos no React Native.
 ###### Tecnologia utilizada : React Native e Expo cli
