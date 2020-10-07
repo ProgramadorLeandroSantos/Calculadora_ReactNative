@@ -12,4 +12,4 @@
 3 - ja No terminal com o diretório do projeto, Execute `expo start`.
 
 ##### Objetivo: Estudar  Principais conceitos no React Native.
-###### Tecnologia utilizada : React Native
+###### Tecnologia utilizada : React Native e Expo cli
