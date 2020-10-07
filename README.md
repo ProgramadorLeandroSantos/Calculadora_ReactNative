@@ -5,7 +5,7 @@
 
 ## Como Utilizar?
 
-###### Dependências : Node e Expo cli,
+###### Dependências a serem instaladas manualmente: Node e Expo cli,
 
 1 - Clone ou baixe o Projeto para sua máquina.<br/>
 2 - Abra o projeto no Visual Studio code.<br/>
